@@ -1,7 +1,7 @@
 <?php
 
 
-namespace YeeJiaWei\LaravelTiktokShopApi;
+namespace Yeejiawei\LaravelTiktokShopApi;
 
 
 class TiktokShopClient
