@@ -1,0 +1,17 @@
+{
+    "name": "yeejiawei/laravel-tiktok-shop-api",
+    "description": "Laravel Wrapper for TikTok Shop Api",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Yeejiawei\\LaravelTiktokShopApi\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Yee Jia Wei",
+            "email": "yeejiawei0811@gmail.com"
+        }
+    ],
+    "require": {}
+}
